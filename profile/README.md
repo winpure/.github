@@ -1,33 +1,36 @@
 # WinPure® — Data Quality & Entity Resolution Software
 
-**Build trusted, AI-ready data with powerful data profiling, cleansing, matching, deduplication and entity resolution.**
+**Build trusted, AI-ready data with WinPure Clean & Match.**
 
-WinPure® provides **data quality and data matching software** that helps organisations profile, clean, standardise, match and consolidate information across multiple data sources.
+WinPure® helps organisations **profile, clean, match, deduplicate and consolidate fragmented data** into trusted records for migration, analytics, governance and AI.
 
-Our technology combines **data profiling, data cleansing, fuzzy matching, entity resolution, data deduplication and Golden Record creation** in a secure, no-code environment — helping organisations turn fragmented and inconsistent information into trusted, AI-ready data.
+Our data quality and entity resolution technology combines **data profiling, data cleansing, fuzzy matching, phonetic matching, record linkage and Golden Record creation** in a secure, no-code environment.
 
-## 🔍 Data Matching & Entity Resolution
+🌐 **[Website](https://winpure.com/)** · 📚 **[Learn More](https://winpure.com/)** · 🚀 **[Free Trial](https://winpure.com/free-trial/)**
 
-WinPure helps organisations identify duplicate and related records even when data is incomplete, inconsistent or incorrectly formatted.
+---
 
-Matching capabilities include:
+## Data Matching & Entity Resolution
+
+Identify duplicate and related records even when data is incomplete, inconsistent, misspelled or structured differently across multiple data sources.
+
+WinPure Clean & Match provides:
 
 * Exact and fuzzy data matching
 * Phonetic matching
 * Multi-column and cross-column matching
 * Configurable matching algorithms
-* Entity resolution
-* Record linkage and duplicate detection
-* Data deduplication
+* Entity resolution and record linkage
+* Duplicate detection and data deduplication
 * Explainable matching results
 * Master Record selection
 * Golden Record creation
 
-## 🧹 Data Quality & Data Cleansing
+## Data Quality & Data Cleansing
 
-Understand and improve your data before matching, migration, analytics or AI.
+Understand and improve the quality of your data before matching, migration, analytics or AI.
 
-WinPure provides:
+Capabilities include:
 
 * Data profiling and data quality analysis
 * Completeness and validity analysis
@@ -37,35 +40,39 @@ WinPure provides:
 * REGEX-based data cleansing
 * Data quality insights and recommendations
 
-## 🏆 Master & Golden Records
+## Master & Golden Records
 
-WinPure helps organisations identify trusted Master Records and consolidate duplicate and related information into **Golden Records**, creating a more reliable view of customers, citizens, suppliers and other entities.
+Turn duplicate and fragmented information into trusted records.
 
-## 🔐 Secure Data Processing
+WinPure helps organisations automatically identify **Master Records** and consolidate related information into **Golden Records**, creating a more reliable view of customers, citizens, suppliers and other entities.
 
-WinPure Clean & Match can operate within your own environment, allowing organisations to perform advanced data quality, data matching and entity resolution processes while maintaining control over sensitive data.
+## Secure Data Processing
 
-## 👨‍💻 Developer Resources
+WinPure Clean & Match can operate within your own environment, allowing organisations to perform advanced **data quality, data matching and entity resolution** processes while maintaining control over sensitive data.
 
-This GitHub organisation provides and will continue to expand technical resources covering:
+This makes WinPure particularly suited to organisations where **data privacy, security and control** are critical.
+
+## Developer Resources
+
+The WinPure GitHub organisation provides technical resources and examples covering:
 
 * Data matching and fuzzy matching
 * Entity resolution and record linkage
-* Data cleansing
 * Matching algorithms
+* Data cleansing and standardisation
 * API integration examples
 * REST API integrations
 * Data quality workflows
 
-## 🚀 About WinPure
+More developer resources, sample datasets and integration examples will be added as the WinPure platform continues to evolve.
 
-WinPure® develops data quality and entity resolution technology for organisations that need to **profile, clean, match, deduplicate and consolidate data into trusted records**.
+## About WinPure
+
+WinPure® develops **data quality, data matching and entity resolution software** for organisations that need to turn inconsistent, duplicated and fragmented information into trusted data.
 
 🌐 **Website:** https://winpure.com/
-🔎 **Data Matching:** https://winpure.com/data-matching/
-🧹 **Data Cleansing:** https://winpure.com/data-cleansing/
 🚀 **Free Trial:** https://winpure.com/free-trial/
 
 ---
 
-**Data Quality • Data Cleansing • Data Matching • Fuzzy Matching • Entity Resolution • Record Linkage • Data Deduplication • Golden Records**
+**Data Quality · Data Cleansing · Data Matching · Fuzzy Matching · Entity Resolution · Record Linkage · Data Deduplication · Golden Records**
