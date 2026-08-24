@@ -6,7 +6,7 @@ WinPure® helps organisations **profile, clean, match, deduplicate and consolida
 
 Our data quality and entity resolution technology combines **data profiling, data cleansing, fuzzy matching, phonetic matching, record linkage and Golden Record creation** in a secure, no-code environment.
 
-🌐 **[Website](https://winpure.com/)** · 📚 **[Learn More](https://winpure.com/)** · 🚀 **[Free Trial](https://winpure.com/free-trial/)**
+🌐 **[Website](https://winpure.com/)** · 📚 **[Data Matching Guide](https://winpure.com/data-matching-guide/)** · 🚀 **[Free Trial](https://winpure.com/free-trial/)**
 
 ---
 
